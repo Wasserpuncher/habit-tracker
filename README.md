@@ -30,12 +30,4 @@ A simple and effective habit tracker that helps you build and maintain good habi
 
 
 
-### Hinweise zur Verwendung
-
-1. **Anpassen**: Ersetze `your-email@example.com` durch deine tatsächliche E-Mail-Adresse.
-2. **Lizenz**: Wenn du eine andere Lizenz verwendest, passe den Lizenzteil entsprechend an.
-3. **Verlinkungen**: Stelle sicher, dass der Verweis auf die `LICENSE`-Datei korrekt ist oder erstelle eine Lizenzdatei, falls erforderlich.
-
-Diese `README.md` bietet eine umfassende Übersicht über dein Projekt und erleichtert anderen Benutzern das Verständnis und die Nutzung deines Habit Trackers.
-
 
